@@ -45,6 +45,8 @@ pip install -r requirements.txt
 
 - Data preparation (Please wait for Google Drive to complete uploading)
   
+  Download project [dataset](https://drive.google.com/file/d/1tVgTA-8oWswWkQZNoIoHUI9qyxB8QfmT/view?usp=sharing) shared via Google Drive. And extract it as ./data folder under repository root. 
+  
   *Please refer to the paper for the details of constructed dataset.*
 
 - Model training with testing
