@@ -6,16 +6,23 @@
 <center><img src="./doc/cool-model-arch.png" align="middle" width="850"></center> 
 
 ## Authors 
+
 <table style="width:100% bgcolor:#FFFFFF" align="center">
   <tr align="center">
-    <th>Sucheng Qian</th>
-    <th>Zhaoyu Li</th>
+    <th><a href="https://github.com/OolongQian">Sucheng Qian</a></th>
+    <th><a href="https://github.com/ApolloLiZhaoyu">Zhaoyu Li</a></th>
     <th>Weibang Jiang</th>
   </tr>
 </table>
 
 ## Demo 
 <span style="font-size: 1.5em;"> An introduction video to this project can be downloaded here [link](https://jbox.sjtu.edu.cn/link/view/2f2f1e8ea0f1464fb45b3fe71db68441).</span>
+
+## Paper
+
+- Paper in PDF format is availale [here](https://github.com/OolongQian/Cleanliness-Classification/tree/master/doc/paper.pdf).
+
+- Citation in bibtex availale [here](https://github.com/OolongQian/Cleanliness-Classification/tree/master/doc/bibtex_paper.txt).
 
 ## Code 
 ### Prerequisites
@@ -39,7 +46,7 @@ pip install -r requirements.txt
 - Data preparation (Please wait for Google Drive to complete uploading)
   
   *Please refer to the paper for the details of constructed dataset.*
-  
+
 - Model training with testing
 ```bash
 python3 train_cool.py
