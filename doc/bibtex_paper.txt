@@ -1,0 +1,6 @@
+@article{Qian2019COOL
+    author = {Sucheng, Qian and Zhaoyu, Li and Weibang, Jiang",
+    title = {Contour and Object-Oriented Learning for Indoor Cleanliness Classification},
+    year = {2019},
+    howpublished={\url{https://github.com/OolongQian/Cleanliess-Classification}}
+}
