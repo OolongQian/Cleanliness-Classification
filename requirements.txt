@@ -1,0 +1,8 @@
+numpy
+pillow
+torch
+torchvision
+tensorflow-gpu
+keras
+scipy
+tensorboardX
