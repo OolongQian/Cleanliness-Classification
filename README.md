@@ -16,7 +16,7 @@
 </table>
 
 ## Demo 
-<span style="font-size: 1.5em;"> An introduction video to this project can be downloaded here [link](https://jbox.sjtu.edu.cn/link/view/2f2f1e8ea0f1464fb45b3fe71db68441).</span>
+<span style="font-size: 1.5em;"> An introduction video to this project can be downloaded here [link](https://youtu.be/5RG4RuoPPo8).</span>
 
 ## Paper
 
